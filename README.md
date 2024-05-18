@@ -2,7 +2,7 @@
 
 The `MISC-OD` (Mutual Information and Reduced Spectral Clustering - Outlier Detection) algorithm was evaluated in comparison to the Local Outlier Factor (LOF) and Isolation Forest methods for novelty detection using a version of the `Wisconsin Breast Cancer (Diagnostics) dataset`.
 
-For detailed insights into this methodology, please refer to the following reference: [*A Novel Unsupervised Outlier Detection Algorithm Based on Mutual Information and Reduced Spectral Clustering*](https://www.mdpi.com/2079-9292/12/23)
+For detailed insights into the methodology, please refer to the following reference: [*A Novel Unsupervised Outlier Detection Algorithm Based on Mutual Information and Reduced Spectral Clustering*](https://www.mdpi.com/2079-9292/12/23)
 
 ## Prerequisites
 
