@@ -1,4 +1,4 @@
-# Anomaly Detection using MISC-OD
+# Outlier Detection using MISC-OD
 
 The `MISC-OD` (Mutual Information and Reduced Spectral Clustering - Outlier Detection) algorithm was evaluated in comparison to the Local Outlier Factor (LOF) and Isolation Forest methods for novelty detection using a version of the `Wisconsin Breast Cancer (Diagnostics) dataset`.
 
